@@ -1,3 +1,3 @@
 # mc2
 
-Projekt u sklopu mc2 natjecanja na TVZ-u, rađeno u timu s još 2 kolega. Ja sam radila front-end i dio back-enda (spring)
+Project for the TVZ MC2 Competition in collaboration with my teammates. I was in charge of the Front-end and some of the back-end.
